@@ -1,6 +1,6 @@
 # Randomizer
 
-Randomizer generate random stuff. To use it, install the package:
+Randomizer generates random stuff. To use it, install the package:
 
 ```
 $ go get github.com/microwaves/randomizer
